@@ -22,7 +22,7 @@ I live on the Space Coast of Florida, USA. Outside of work I enjoy spending time
 
 ### Skills
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,go,java,spring,react,aws,docker,terraform,dynamodb,mysql,postgres,rabbitmq,git,github,gitlab,linux,python" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,go,java,react,aws,docker,terraform,dynamodb,mysql,postgres,rabbitmq,git,github,gitlab,linux,python,spring" />
 
 ---
 
