@@ -8,7 +8,7 @@
 
 ### 👋 Hey there!
 
-I'm a backend and full stack engineer with over a decade of experience building cloud-native, distributed systems. I specialize in TypeScript/Node.js, Go, and AWS, with deep experience in auth systems, customer-facing APIs, and multi-tenant B2B SaaS.
+I'm a backend and full stack engineer with over a decade of experience building cloud-native, distributed systems. I specialize in Node.js, Java, Go, and AWS, with deep experience in auth systems, customer-facing APIs, and multi-tenant B2B SaaS.
 
 I live on the Space Coast of Florida, USA. Outside of work I enjoy spending time with my family, tinker with fantasy football analytics at [ffawards.app](https://ffawards.app), play board/video games, and tend to my garden.
 
