@@ -16,7 +16,7 @@ I live on the Space Coast of Florida, USA. Outside of work I enjoy spending time
 
 📧 [daniel.reguero@gmail.com](mailto:daniel.reguero@gmail.com)
 
-🏈 [github.com/HappyZombies/ffawards.app](https://github.com/HappyZombies/ffawards.app)
+🏈 [github.com/dannyreg/ffawards.app](https://github.com/danyreg/ffawards.app)
 
 ---
 
