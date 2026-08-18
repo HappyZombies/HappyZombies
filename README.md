@@ -30,9 +30,10 @@ I live on the Space Coast of Florida, USA. Outside of work I enjoy spending time
 
 | Period | Company | Role |
 |---|---|---|
+| 2026 -- Present | 🚀 **[Peraton](https://www.peraton.com)** | Senior Software Engineer |
 | 2024 -- 2026 | 🔐 **[ALTR](https://www.altr.com)** | Engineering Manager |
 | 2023 -- 2024 | 🔐 **[ALTR](https://www.altr.com)** | Senior Software Engineer |
 | 2019 -- 2023 | 🔐 **[ALTR](https://www.altr.com)** | Software Engineer |
 | 2019 | 💻 **[Brooksource](https://www.brooksource.com)** | Full Stack Developer |
-| 2018 -- 2019 | 🚀 **[TechRev, Inc](https://www.techrev.com)** | Software Engineer (_TS/SCI_) |
-| 2016 -- 2018 | 🚀 **[TechRev, Inc](https://www.techrev.com)** | Jr. Software Engineer |
+| 2018 -- 2019 | 🌴 **[TechRev, Inc](https://www.techrev.com)** | Software Engineer |
+| 2016 -- 2018 | 🌴 **[TechRev, Inc](https://www.techrev.com)** | Jr. Software Engineer |
